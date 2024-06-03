@@ -1,0 +1,16 @@
+<style>
+        .avatar-container {
+            display: inline-block;
+            border-radius: 50%;
+            overflow: hidden;
+            width: 200px;
+            height: 200px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            margin-bottom: 20px;
+        }
+        .avatar {
+            width: 100%;
+            height: 100%;
+            background: url('avatar.jpg.JPG') center/cover;
+        }
+    </style>
